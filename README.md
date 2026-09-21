@@ -1,4 +1,4 @@
-# Olá! Eu sou o Rúben Tavares 👋
+# Olá! Eu sou o Rúben Tavares 
 
 ## Back-End Developer | DevSecOps
 
